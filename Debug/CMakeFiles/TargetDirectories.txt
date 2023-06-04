@@ -1,4 +1,0 @@
-/home/ariess/ast245/nbody/Debug/CMakeFiles/edit_cache.dir
-/home/ariess/ast245/nbody/Debug/CMakeFiles/rebuild_cache.dir
-/home/ariess/ast245/nbody/Debug/CMakeFiles/nbody.dir
-/home/ariess/ast245/nbody/Debug/CMakeFiles/nbodyLib.dir

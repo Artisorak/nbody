@@ -1,2 +1,0 @@
-/usr/bin/ar qc libnbodyLib.a  CMakeFiles/nbodyLib.dir/lib/parameters.cpp.o CMakeFiles/nbodyLib.dir/lib/nBodySim.cpp.o CMakeFiles/nbodyLib.dir/lib/node.cpp.o CMakeFiles/nbodyLib.dir/lib/tree.cpp.o CMakeFiles/nbodyLib.dir/lib/utils.cpp.o
-/usr/bin/ranlib libnbodyLib.a
