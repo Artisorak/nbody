@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -Wall -g  -rdynamic CMakeFiles/nbody.dir/main.cpp.o  -o nbody  libnbodyLib.a -lgomp -lpthread 
