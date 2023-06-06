@@ -15,7 +15,7 @@ https://www.geeksforgeeks.org/openmp-introduction-with-installation-guide/
 This will create a folder called nbody that contains everything. 
 
 ```
-git clone https://gitlab.uzh.ch/armindamon.riess/nbody.git
+git clone https://github.com/Artisorak/nbody.git
 ```
 
 ## Make build directory
